@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Matt S',
     description: 'Matt S Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/mp-strachan/kasm-registry/',
+    listUrl: 'https://mp-strachan.github.io/kasm-registry/',
     contactUrl: 'https://github.com/mp-strachan',
   },
   reactStrictMode: true,
