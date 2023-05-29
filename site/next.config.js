@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Matt S',
     description: 'Matt S Kasm workspaces.',
-    icon: '/img/github.png',
+    icon: 'https://mp-strachan.github.io/kasm-registry/1.0/github.png',
     listUrl: 'https://mp-strachan.github.io/kasm-registry/',
     contactUrl: 'https://github.com/mp-strachan',
   },
